@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "C:/Users/SJB/Desktop/complete-guide-to-angular-2/cmp-databinding-two/node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -115,6 +116,7 @@
           }
         }
       }
-    }},
+    }
+  },
   "defaultProject": "cmp-databinding-two"
 }
